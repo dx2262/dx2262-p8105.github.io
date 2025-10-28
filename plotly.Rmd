@@ -1,0 +1,57 @@
+---
+title: "plotly"
+output: html_document
+---
+
+
+Here's the tidyverse.
+
+```{r, message=FALSE}
+library(tidyverse)
+library(plotly)
+
+library(p8105.datasets)
+```
+
+Let's load the AirBnB dataset.
+
+```{r}
+data("nyc_airbnb")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

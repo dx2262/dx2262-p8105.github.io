@@ -1,0 +1,12 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    theme: cerulean
+---
+
+This website was coded by Prof. Jeff using RMarkdown to do all the hard work.
+
+
+
+Go back to the [homepage](index.html).
